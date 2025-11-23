@@ -1,0 +1,18 @@
+// Git commands
+    git config --global user.name "<Your User Name>"
+    git config --global user.email "<Your User Email>"
+
+    ls <for check directories>
+    cd directory-name <for change directory>
+
+    git clone <githyb-repository link> >> use to clone repository in system
+    git status >> use to check the status of local and githu repository is same or not
+        Types Of statuses >>>
+            untracked (new file that git never yet track)
+            modified (changes in file)
+            staged (file is redy to be comitted)
+            unmodified (Unchanged file)
+
+    Add & commit
+    git add <file Name>
+    git commit -m "some message"
