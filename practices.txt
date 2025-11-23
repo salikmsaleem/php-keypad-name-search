@@ -16,5 +16,4 @@
     Add & commit
     git add <file Name>
     git commit -m "some message"
-    git push >>(to publish the directory)
-    
+    git push origin main >>(to publish the directory)
